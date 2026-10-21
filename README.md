@@ -1,75 +1,73 @@
-Exploratory Data Analysis & Statistical Insights
+# Exploratory Data Analysis & Statistical Insights
 
-A learning portfolio documenting data analysis concepts, statistical methods, and practical exercises from IBM's Exploratory Data Analysis for Machine Learning course on Coursera.
+**IBM | Coursera | Machine Learning**
 
-About This Repository
+A practical learning portfolio covering exploratory data analysis, statistical methods, data preprocessing, and feature engineering using Python.
 
-This repository contains course notes, practical exercises, and a final project developed while studying exploratory data analysis and its role in the machine learning workflow.
+---
 
-Learning Objectives
+## Overview
 
-Understand the fundamentals of Artificial Intelligence and Machine Learning.
+This repository documents my learning journey through IBM's **Exploratory Data Analysis for Machine Learning** course on Coursera. It contains structured course notes, practical exercises, and a final project applying data analysis techniques to a real-world dataset.
 
-Retrieve, inspect, and clean datasets using Python.
+## Learning Objectives
 
-Perform exploratory data analysis (EDA).
+- Understand the fundamentals of Artificial Intelligence and Machine Learning.
+- Retrieve, inspect, and clean datasets using Python.
+- Perform exploratory data analysis (EDA).
+- Visualize data distributions, patterns, and relationships.
+- Apply feature engineering and variable transformations.
+- Understand statistical inference and hypothesis testing.
+- Prepare data for machine learning workflows.
 
-Visualize data distributions and relationships.
+## Tech Stack
 
-Apply feature engineering, encoding, scaling, and variable transformations.
+| Category | Tools |
+|---|---|
+| Programming Language | Python |
+| Data Manipulation | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn |
+| Machine Learning | Scikit-learn |
+| Development Environment | Jupyter Notebook, Google Colab |
 
-Understand statistical inference and hypothesis testing.
+## Repository Structure
 
-Prepare datasets for machine learning workflows.
+```text
+exploratory-data-analysis-statistical-insights/
+├── README.md
+├── course-notes/
+│   └── course-summary.docx
+├── exercises/
+└── final-project/
+    ├── EDA_Final_Project.ipynb
+    └── final-project-report.docx
+```
 
-Tools & Technologies
+## Featured Project
 
-Python
+### Student Performance Analysis
 
-Pandas and NumPy
+An exploratory analysis of the Mathematics subset of the UCI Student Performance dataset.
 
-Matplotlib and Seaborn
+**Analysis includes:**
+- Data inspection and descriptive statistics
+- Data quality assessment
+- Exploratory data visualization
+- Statistical hypothesis testing
+- Data preprocessing and feature transformation
 
-Scikit-learn
+**Dataset source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/320/student+performance)
 
-Jupyter Notebook and Google Colab
+## Course Information
 
-Repository Contents
+- **Course:** Exploratory Data Analysis for Machine Learning
+- **Provider:** IBM
+- **Learning Platform:** Coursera
 
-course-notes/ — Course summaries and learning materials.
+## Key Takeaways
 
-exercises/ — Practical exercises and code examples.
+This course strengthened my understanding of data exploration, statistical reasoning, and data preparation as essential steps in the machine learning workflow.
 
-final-project/ — Final project notebook and documentation.
+---
 
-Final Project
-
-The final project explores the UCI Student Performance dataset, focusing on Mathematics grades.
-
-The analysis includes:
-
-Dataset inspection and descriptive statistics.
-
-Data quality assessment and outlier analysis.
-
-Exploratory data visualizations.
-
-Statistical hypothesis testing.
-
-Data preprocessing and feature transformation.
-
-Dataset: UCI Student Performance
-
-Course Information
-
-Course: Exploratory Data Analysis for Machine Learning
-
-Provider: IBM
-
-Platform: Coursera
-
-Learning Outcomes
-
-This repository documents my learning progress and practical application of data analysis techniques as a foundation for future machine learning projects.
-
-Created for educational and portfolio purposes.
+*This repository is maintained for educational and portfolio purposes.*
